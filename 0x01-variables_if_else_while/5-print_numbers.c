@@ -8,7 +8,6 @@
  * Return Always 0 (Success)
  */
 
-
 int main(void)
 {
 	int num = 0;
@@ -18,5 +17,6 @@ int main(void)
 		num++;
 	}
 	putchar('\n');
+
 	return (0);
 }
