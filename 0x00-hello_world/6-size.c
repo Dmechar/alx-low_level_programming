@@ -9,6 +9,7 @@
 
 int main(void)
 {
+	/*size of various types */
 
 	printf("Size of a char: %lu byte(s)\n", sizeof(char));
 
