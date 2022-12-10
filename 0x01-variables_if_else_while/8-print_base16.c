@@ -10,7 +10,7 @@
 
 int main(void)
 {
-	int num ='0'; /*Initialize num to 0*/
+	int num = '0'; /*Initialize num to 0*/
 	char letter = 'a'; /*Initialize letter to a*/
 
 	while (num <= '9') /*print 0-9*/
